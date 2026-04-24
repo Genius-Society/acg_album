@@ -1,11 +1,11 @@
 {
-    "idol": "三月七",
+    "idol": "March 7th",
     "date": "2022/03/07",
-    "bgm": "BGM: 『星穹铁道』三月七PV 纯音乐",
+    "bgm": "BGM: Honkai Star Rail March 7 PV Pure Music",
     "bgmurl": "https://www.bilibili.com/video/BV1uB4y1m7jv",
-    "bgmsrc": "./bgm/bgm-37.mp3",
-    "wallpaper": "https://pic.kts.g.mi.com/6846e840152cb1af846121ca84f2f7875660865990793252613.jpg",
-    "content": "所有没见过的东西<br>都要拍下来<br>这样就不会忘啦<br>这个列车长绝对喜欢<br>你们是来当我的模特么<br>真是不会拍照呢<br>那就让本姑娘来教教你们<br>茄子",
+    "bgmsrc": "https://genius-society-acg-album.ms.show/bgm/bgm-37.mp3",
+    "wallpaper": "./src/3.7.jpg",
+    "content": "Ahem! Hello,<br>Welcome aboard the Astral Express.<br>My name is March 7th, I'm one of the passengers.<br>We'll be working together.<br>First, we need to take your induction photo...<br>Did that scare you! Just a joke~",
     "pics": [
         "https://i0.hdslb.com/bfs/article/6da702c4ccdb0dd32b5028ed6067412e5d916f10.jpg",
         "https://i0.hdslb.com/bfs/article/6c9bcd9f8d42d53f4354bd39e7d3048964433dcf.jpg",

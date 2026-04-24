@@ -27,7 +27,7 @@ jobs:
           EMAIL: ${{ secrets.GIT_EMAIL }}
         run: |
           git clone https://oauth2:$TOKEN@huggingface.co/spaces/Genius-Society/acg_album ../hf_repo
-          rm -rf ./*.py ./*.txt ./LICENSE ./.github ./.git ./.gitignore ./.gitattributes
+          rm -rf ./*.py ./*.txt ./LICENSE ./.github ./.git ./.gitignore
           cp -rf ../hf_repo/.git ../hf_repo/README.md ./
           if [ -n "$(git status --porcelain)" ]; then
             echo "Files are different, committing changes..."
